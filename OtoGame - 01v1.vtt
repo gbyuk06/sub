@@ -1,9 +1,5 @@
-﻿WEBVTT
+WEBVTT
 
-STYLE
-::cue(b) {
-  color: red;
-}
 
 00:00:13.780 --> 00:00:17.700 line:6 position:5% align:start
 Kehidupanku yang
@@ -33,13 +29,13 @@ Kemarilah kalau berani, bendera kehancuran!
 00:00:53.380 --> 00:00:56.030
 Aku akan menghadapimu!
 
-00:00:56.030 --> 00:00:58.490
+00:00:56.030 --> 00:00:58.490 line:-3
 Ibu Kota Kerajaan       Sorcier
 
-00:00:58.490 --> 00:01:01.200
+00:00:58.490 --> 00:01:01.200 line:-3
 Istana Kerajaan
 
-00:01:00.520 --> 00:01:03.660
+00:01:00.520 --> 00:01:03.660 line:0
 Tidak mau! Aku tidak mau ini!
 
 00:01:03.660 --> 00:01:05.820
@@ -173,10 +169,10 @@ Dan itu ....
 00:03:22.130 --> 00:03:23.300
 Aku?!
 
-00:03:26.120 --> 00:03:28.250
+00:03:26.120 --> 00:03:28.250 line:0
 Kamu baik-baik saja, Nona Catarina?!
 
-00:03:28.250 --> 00:03:30.510
+00:03:28.250 --> 00:03:30.510 line:0
 Catarina! Catarina!
 
 00:03:29.400 --> 00:03:32.270
@@ -186,10 +182,10 @@ Nona, apa Anda dengar saya?
 00:03:32.270 --> 00:03:33.850
 Apa itu aku?
 
-00:03:32.480 --> 00:03:33.850
+00:03:32.480 --> 00:03:33.850 line:0
 Panggil dokter!
 
-00:03:34.220 --> 00:03:37.380
+00:03:34.220 --> 00:03:37.380 line:0
 Catarina, kalau kamu dengar, jawab Ayah!
 
 00:03:34.630 --> 00:03:37.380
@@ -214,7 +210,7 @@ ingatanku di kehidupan sebelumnya!
 00:03:52.490 --> 00:03:53.960
 Nona!
 
-00:03:53.960 --> 00:03:56.200
+00:03:53.960 --> 00:03:56.200 line:-3
 Beberapa Hari Kemudian    Kediaman Claes
 
 00:03:56.360 --> 00:03:58.090
@@ -256,14 +252,14 @@ O-Oh ....
 00:04:29.180 --> 00:04:31.150
 Bangsawan, ya?
 
-00:04:29.660 --> 00:04:33.470
+00:04:29.660 --> 00:04:33.470 line:0
 Aku sudah memikirkannya,
 kita bisa bertunangan saja dulu.
 
 00:04:31.150 --> 00:04:34.010
 Kehidupan orang bangsawan itu merepotkan, ya.
 
-00:04:33.470 --> 00:04:36.080
+00:04:33.470 --> 00:04:36.080 line:0
 Tentu saja, aku akan
 menghormati pendapatmu dulu.
 
@@ -301,14 +297,14 @@ Kami sudah mendengar kabarnya, selamat!
 00:05:06.580 --> 00:05:09.160
 Catarina-ku yang manis memang hebat!
 
-00:05:09.250 --> 00:05:11.190
+00:05:09.250 --> 00:05:11.190 line:0
 Bahkan seorang pangeran bisa terpesona.
 
 00:05:09.250 --> 00:05:13.650
 Yah, Tuan Geordo merasa bertanggung
 jawab karena lukaku saja ....
 
-00:05:12.070 --> 00:05:13.650
+00:05:12.070 --> 00:05:13.650 line:0
 Benar, ya!
 
 00:05:13.650 --> 00:05:15.040
@@ -317,14 +313,14 @@ Kita harus mengadakan pesta malam ini, ya.
 00:05:15.040 --> 00:05:16.700
 Ya, ayo lakukan!
 
-00:05:16.700 --> 00:05:18.980
+00:05:16.700 --> 00:05:18.980 line:0
 Kita harus mengadakan pesta pertunangan!
 
 00:05:16.700 --> 00:05:20.540
 A-Aku masih merasa belum
 sembuh, jadi aku duluan ....
 
-00:05:18.980 --> 00:05:20.540
+00:05:18.980 --> 00:05:20.540 line:0
 Oh, itu ide yang bagus!
 
 00:05:23.060 --> 00:05:24.430
@@ -371,11 +367,11 @@ Eh? Pangeran Geordo?
 00:05:58.870 --> 00:06:02.250
 Penjahat itu juga punya nama ....
 
-00:06:02.250 --> 00:06:03.550
+00:06:02.250 --> 00:06:03.550 line:6
 Penjahat • Catarina Claes
 
-00:06:02.250 --> 00:06:03.550
-Untuk bertanggung jawab,
+00:06:02.250 --> 00:06:03.550 line:11 position:0% align:start
+<c.font_8em>Untuk bertanggung jawab,
 atas bekas luka
 teman masa kecilnya,
 Pangeran Geordo ....
@@ -456,7 +452,7 @@ sekaligus tunangan Geordo.
 00:07:31.580 --> 00:07:35.300
 Takdir yang menunggu di rute Geordo ....
 
-00:07:35.300 --> 00:07:37.100
+00:07:35.300 --> 00:07:37.100 line:0
 Rute Geordo
 
 00:07:35.530 --> 00:07:36.890
@@ -465,7 +461,7 @@ Jika akhir bahagiam
 00:07:36.890 --> 00:07:40.290
 karena Catarina menindas tokoh utama,
 
-00:07:37.100 --> 00:07:37.900
+00:07:37.100 --> 00:07:37.900 line:0
 Rute Geordo
 
 00:07:40.290 --> 00:07:42.780
@@ -475,10 +471,10 @@ status bangsawannya dicabut dan diasingkan.
 Setelah itu, tokoh utama
 bertunangan dengan Geordo.
 
-00:07:43.270 --> 00:07:45.310
+00:07:43.270 --> 00:07:45.310 line:0
 Awas saja kau!
 
-00:07:46.520 --> 00:07:48.320
+00:07:46.520 --> 00:07:48.320 line:0
 Rute Geordo
 
 00:07:46.860 --> 00:07:47.990
@@ -487,7 +483,7 @@ Jika akhir yang buruk,
 00:07:47.990 --> 00:07:50.120
 Catarina akan menyerang tokoh utama dengan pisau,
 
-00:07:48.320 --> 00:07:49.100
+00:07:48.320 --> 00:07:49.100 line:0
 Rute Geordo
 
 00:07:50.120 --> 00:07:52.980
@@ -496,14 +492,14 @@ dan berakhir dia dibunuh oleh Geordo.
 00:07:52.980 --> 00:07:55.360
 Karena Geordo membunuh tunangannya sendiri,
 
-00:07:54.780 --> 00:07:57.870
+00:07:54.780 --> 00:07:57.870 line:3
 Makam Catarina
 
 00:07:55.360 --> 00:07:57.870
 Geordo lalu berpisah dengan
 tunangannya dan mengembara.
 
-00:07:57.870 --> 00:08:01.210
+00:07:57.870 --> 00:08:01.210 line:0
 Catarina
 Mati atau Diasingkan
 
@@ -530,33 +526,33 @@ Tapi setelah kuselidiki, memang benar.
 00:08:15.680 --> 00:08:18.630
 Di sini memang benar dunia Fortune Lover!
 
-00:08:15.680 --> 00:08:18.930
+00:08:15.680 --> 00:08:18.930 line:0 position:20%
 Daftar Cek
 
-00:08:15.680 --> 00:08:18.930
-Adik kembar Geordo, Alan → Centang
+00:08:15.680 --> 00:08:18.930 line:1 position:5% align:start
+<c.font_-7em>Adik kembar Geordo, Alan → Centang
 Adik tiri → Centang
 Anak perdana Menteri → Ascart
-Atribut sihir → Semua cocok
+Atribut sihir → Semua cocok</c>
 
 00:08:19.330 --> 00:08:20.860
 Artinya, aku ...
 
-00:08:22.060 --> 00:08:24.100
+00:08:22.060 --> 00:08:24.100 line:-5 position:38% align:left
 Kehidupanku yang Selanjutnya Sebagai Penjahat
 Semua Rute Berakhir Kehancuran...
 
 00:08:22.060 --> 00:08:24.100
 ... kalau terus begini, aku bisa hancur!
 
-00:09:55.240 --> 00:10:00.450
+00:09:55.240 --> 00:10:00.450 line:0
 Rapat di Dalam Kepala Catarina
 
 00:09:55.430 --> 00:10:00.450
 Kita akan mengadakan rapat pertama
 untuk menghindari kehancuran diakhir.
 
-00:10:00.450 --> 00:10:05.620
+00:10:00.450 --> 00:10:05.620 line:0 position:80% align:left
 Ketua Catarina
 
 00:10:00.670 --> 00:10:02.740
@@ -568,13 +564,13 @@ Ya!
 00:10:03.560 --> 00:10:05.620
 Silakan, Catarina Claes-san.
 
-00:10:05.620 --> 00:10:08.370
+00:10:05.620 --> 00:10:08.370 line:0 position:15% align:left
 Catarina Pemberani
 
 00:10:05.790 --> 00:10:08.370
 Kita tidak harus bertunangan dengan Geordo!
 
-00:10:08.370 --> 00:10:15.710
+00:10:08.370 --> 00:10:15.710 line:0 position:70% align:left
 Catarina Penakut
 
 00:10:08.460 --> 00:10:12.310
@@ -586,13 +582,13 @@ apa kita bisa melakukannya?
 00:10:14.830 --> 00:10:15.710
 Benar juga ....
 
-00:10:15.710 --> 00:10:18.720
+00:10:15.710 --> 00:10:18.720 line:0 position:15% align:left
 Catarina Bahagia
 
 00:10:15.850 --> 00:10:18.720
 Tidak perlu sekolah di akademi sihir!
 
-00:10:18.720 --> 00:10:22.350
+00:10:18.720 --> 00:10:22.350 line:0 position:70% align:left
 Catarina Perencana
 
 00:10:18.810 --> 00:10:22.740
@@ -674,11 +670,11 @@ Tidak keberatan!
 Sejak terluka dikepalanya,
 Nona jadi bersikap aneh.
 
-00:11:31.710 --> 00:11:36.800 line:-5 position:41%
-<c.yellow>Episode 1
-
 00:11:31.710 --> 00:11:36.800 line:-4 position:35% align:start size:50%
-<c.yellow>Aku Membangkitkan Ingatan di Kehidupanku yang Sebelumnya ....
+<c.yellow.font_-8em>Episode 1
+
+00:11:31.710 --> 00:11:36.800 line:-1 position:35% align:start size:50%
+<c.yellow.font_-5em>Aku Membangkitkan Ingatan di Kehidupanku yang Sebelumnya ....
 
 00:11:34.600 --> 00:11:37.050 line:0
 Tapi, dokter bilang dia tidak apa-apa.
@@ -1062,7 +1058,7 @@ terlihat lebih dekat dari sebelumnya, ya.
 00:18:04.340 --> 00:18:06.730
 Ya, banyak yang terjadi.
 
-00:18:04.500 --> 00:18:06.720
+00:18:04.500 --> 00:18:06.720 line:0
 Selamat datang, Pangeran!
 
 00:18:06.850 --> 00:18:10.340
@@ -1317,7 +1313,7 @@ Monster ....
 00:22:27.430 --> 00:22:28.850
 Mengerikan.
 
-00:22:28.740 --> 00:22:30.450
+00:22:28.740 --> 00:22:30.450 line:0
 Jangan pernah keluar dari kamarmu!
 
 00:22:28.850 --> 00:22:31.870
